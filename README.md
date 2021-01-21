@@ -1,2 +1,2 @@
 # export-data
-Only use for personal
+For personal use only.
